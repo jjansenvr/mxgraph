@@ -1,0 +1,5 @@
+askZoom=Geef zoom (%)
+properties=Eigenschappen
+outline=Schets
+tasks=Taken
+help=Help
