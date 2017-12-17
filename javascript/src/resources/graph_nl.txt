@@ -1,0 +1,11 @@
+alreadyConnected=Nodes zijn al connected
+containsValidationErrors=Bevat validatie fouten
+updatingDocument=Document aan het updaten. Even geduld...
+updatingSelection=Updaten Selectie. Even geduld...
+collapse-expand=In/Uitklappen
+doubleClickOrientation=Doubleclick om richting aan te passen
+close=Sluit
+error=Fout
+done=Klaar
+cancel=Afbreken
+ok=OK
